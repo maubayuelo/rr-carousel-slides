@@ -11,7 +11,8 @@ The difference in between these similar slides are.
 
 
 ### multi-click-area.zip
-This one for slides that have more than 1 link. Just the desktop version use `<area>` Tag. And it only will work for desktop and will not work on mobile because phones have different sizes.
+This one for slides that have more than 1 link. Just the desktop version use `<area>` Tag with coordinates.
+And it only will work for just desktop and will not work on mobile because phones have different sizes.
 
 
 ![Multi click area slide Desktop](https://snipboard.io/DZuXbz.jpg#1 "Multi click area slide Desktop")
