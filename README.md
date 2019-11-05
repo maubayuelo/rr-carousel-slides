@@ -14,16 +14,16 @@ The difference in between these similar slides are.
 This one for slides that have more than 1 link.
 
 
-![Multi click area slide Desktop](https://snipboard.io/DZuXbz.jpg "Multi click area slide Desktop")
-![Multi click area slide Mobile](https://snipboard.io/6lVh3j.jpg "Multi click area slide Mobile")
+![Multi click area slide Desktop](https://snipboard.io/DZuXbz.jpg#1 "Multi click area slide Desktop")
+![Multi click area slide Mobile](https://snipboard.io/6lVh3j.jpg#1 "Multi click area slide Mobile")
 
 
 ### uni-click-area.zip
 This one is for Slides that has just one link.
 
 
-![One click area slide Desktop](https://snipboard.io/UTYeNX.jpg "Uni click Slide Desktop")
-![One click area slide Mobile](https://snipboard.io/9Dv0xQ.jpg "Uni click Slide Mobile")
+![One click area slide Desktop](https://snipboard.io/UTYeNX.jpg#1 "Uni click Slide Desktop")
+![One click area slide Mobile](https://snipboard.io/9Dv0xQ.jpg#1 "Uni click Slide Mobile")
 
 
 Following these templates to build up the templates could help to avoid big adjustments on the carousel once the work is done.
