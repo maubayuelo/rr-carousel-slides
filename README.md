@@ -15,16 +15,16 @@ This one for slides that have more than 1 link. Just the desktop version use `<a
 And it only will work for just desktop and will not work on mobile because phones have different sizes.
 
 
-![Multi click area slide Desktop](https://snipboard.io/DZuXbz.jpg#1 "Multi click area slide Desktop")
-![Multi click area slide Mobile](https://snipboard.io/6lVh3j.jpg#1 "Multi click area slide Mobile")
+![Multi click area slide Desktop](https://snipboard.io/DZuXbz.jpg#3 "Multi click area slide Desktop")
+![Multi click area slide Mobile](https://snipboard.io/6lVh3j.jpg#3 "Multi click area slide Mobile")
 
 
 ### uni-click-area.zip
 This one is for Slides that has just one link.
 
 
-![One click area slide Desktop](https://snipboard.io/UTYeNX.jpg#1 "Uni click Slide Desktop")
-![One click area slide Mobile](https://snipboard.io/9Dv0xQ.jpg#1 "Uni click Slide Mobile")
+![One click area slide Desktop](https://snipboard.io/UTYeNX.jpg#3 "Uni click Slide Desktop")
+![One click area slide Mobile](https://snipboard.io/9Dv0xQ.jpg#3 "Uni click Slide Mobile")
 
 
 Following these templates to build up the templates could help to avoid big adjustments on the carousel once the work is done.
